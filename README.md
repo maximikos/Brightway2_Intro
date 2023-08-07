@@ -1,8 +1,8 @@
 # An introduction to Brightway 2
 
-[!IMPORTANT]  
-1. Works really only for [Brigthway 2](https://github.com/brightway-lca/brightway2), not [Brightway 2.5](https://github.com/brightway-lca/brightway25). I might write an update some time, perhaps when Brightway 3 is out 😉
-2. This repository has not been maintained since Nov 2019, in part because I have moved my focus elsewhere and in part because I had lost access to the previous account where this repo was stored. Apologies to those who have posted issues since then; however, having now access to the repo again on my current account does not mean that I will engage in issue-solving. Sorry again! 🙃
+> [!IMPORTANT]  
+> 1. Works really only for [Brigthway 2](https://github.com/brightway-lca/brightway2), not [Brightway 2.5](https://github.com/brightway-lca/brightway25). I might write an update some time, perhaps when Brightway 3 is out 😉
+> 2. This repository has not been maintained since Nov 2019, in part because I have moved my focus elsewhere and in part because I had lost access to the previous account where this repo was stored. Apologies to those who have posted issues since then; however, having now access to the repo again on my current account does not mean that I will engage in issue-solving. Sorry again! 🙃
 
 [Brightway](https://docs.brightway.dev) is a Python-based free and open-source software for [lifecycle assessment](https://en.wikipedia.org/wiki/Life-cycle_assessment) (LCA; see [here](https://www.nature.com/articles/s43017-023-00449-2) for a recent good overview, also accessible via [LinkedIn](https://www.linkedin.com/posts/maximilian-koslowski-711365143_lca-to-guide-solutions-for-the-triple-planetary-activity-7083024231541743616-G6Gy?utm_source=share&utm_medium=member_desktop)).
 
