@@ -9,3 +9,14 @@
 LCA is a tool used for analysing the environmental (and other) pressures associated with products, technologies, and countries. This may sound a little big, but it's all just a matter of which database you use. Commonly, the term LCA is understood in its process-based variant where its application is bound to comparative and hotspot analysis. That is, LCAs are performed for individual products like shopping bags to figure out if a cotton-based one is more environmentally-friendly (and where along its supply chain) than a single-use plastic one (see for example [this study](https://norsus.no/en/publikasjon/life-cycle-assessment-of-plastic-bags-and-othercarrying-solutions-for-groceries-in-norway/)), or similarly with single-use vs reusable food packaging (see for example [this study](https://www.lifecycleinitiative.org/wp-content/uploads/2022/10/UNEP-D010-Food-Packaging-Report_Final-Version-1-1.pdf/UNEP-D010-Food-Packaging-Report-2-1.pdf)). They may also be performed for product fleets such as [this (Brightway-based) one](https://viewer.webservice-energy.org/lca-wind-dk/) on wind turbines in Denmark. The mathematics of LCA are, however, derived from the field of [input-output economics](https://en.wikipedia.org/wiki/Input%E2%80%93output_model) which has a history dating back more than a hundred years. IO-based LCA is used for calculating environmental footprints of regions and their citizens (see for example [here](https://www.nature.com/articles/s41561-018-0113-9) for an overview of its applications and [here](https://www.environmentalfootprints.org/infographics) for an overview of footprints). Popular databases for process-based and IO-based LCA are, respectively, [ecoinvent](https://ecoinvent.org/) and [EXIOBASE](https://zenodo.org/record/5589597). The focus of Brightway has typically been process-based LCA.
 
 This repo contains two files: a Jupyter notebook and a spreadsheet that is used at one point in that notebook. The notebook is long, really long. So be ready for spending some time here! And have fun 😉
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
